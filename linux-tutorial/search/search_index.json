@@ -1,0 +1,1 @@
+{"config": {"lang": ["en"], "separator": "[\\_\\s\\-,:!=\\[\\]()\"/]+|(?!\\b)(?=[A-Z][a-z])|\\.(?!\\d)|&[lg]t;", "pipeline": ["stopWordFilter"]}, "docs": [{"location": "", "title": "This tutorial has moved!", "text": "<p>See https://docs.hpc.ugent.be/linux-tutorial .</p> <p>Please update your bookmarks!</p>"}]}
